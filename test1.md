@@ -1,3 +1,3 @@
 Hello there
 
-How are things
+How are Things
